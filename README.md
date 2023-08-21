@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-Enhance your user experience with personalized movie recommendations using an item-based collaborative filtering recommendation system. This project focuses on providing users with tailored movie suggestions, leading to increased customer engagement and interaction. By leveraging the power of data-driven insights, this recommendation system aims to make movie suggestions more accurate and appealing to individual users.
+Enhancing the user experience with personalized movie recommendations using an item-based and user-based collaborative filtering recommendation system. This project focuses on providing users with tailored movie suggestions, leading to increased customer engagement and interaction. By leveraging the power of data-driven insights, this recommendation system aims to make movie suggestions more accurate and appealing to individual users.
 
 ### Key Features
 **Item-Based Collaborative Filtering:** The core of this recommendation system is the item-based collaborative filtering technique. It analyzes the behavior and preferences of users to identify similarities between movies and suggests items based on those similarities.
